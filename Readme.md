@@ -34,6 +34,8 @@ This project demonstrates hands-on experience in:
 #### **Data Source: Deutsche Bundesbank**
 
 **Data Provider:** Deutsche Bundesbank (Germany’s central bank)
+
+
 **Dataset:** Retail Trade Turnover Index (Monthly)
 **Dataset ID:** BBDE1.M.DE.W.GUA1.N2G470000.A.V.I15.A
 
@@ -76,7 +78,7 @@ Working with Bundesbank data reflects **enterprise-grade data challenges**, incl
 
 &nbsp;	Business planning
 
-🧠 Repository Structure
+**Repository Structure**
 ├── notebooks/
 │   ├── Notebook\_01\_Data\_Understanding.ipynb
 │   ├── Notebook\_02\_Data\_Cleaning\_Feature\_Engineering.ipynb
@@ -96,7 +98,8 @@ Working with Bundesbank data reflects **enterprise-grade data challenges**, incl
 │   └── data\_validation\_queries.sql
 │
 ├── requirements.txt
-└── README.md
+└── Readme.md
+---
 
 📘 Notebook Summary (ATS Optimized)
 Notebook 01 — Data Understanding \& Validation
