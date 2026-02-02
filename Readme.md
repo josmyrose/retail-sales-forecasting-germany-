@@ -204,12 +204,14 @@ This reflects **enterprise BI workflows** commonly used in German organizations.
 
 
 https://endtoenddatascience.blogspot.com
----
 
-**How to Run the Project**
+
+
+#### **How to Run the Project**
+
+
 git clone https://github.com/josmyrose/retail-sales-forecasting-germany-
 pip install -r requirements.txt
----
 
 
 
