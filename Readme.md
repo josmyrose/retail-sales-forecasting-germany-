@@ -78,7 +78,11 @@ Working with Bundesbank data reflects **enterprise-grade data challenges**, incl
 
 &nbsp;	Business planning
 
-**Repository Structure**
+#### **Repository Structure**
+
+#### 
+
+
 ├── notebooks/
 │   ├── Notebook\_01\_Data\_Understanding.ipynb
 │   ├── Notebook\_02\_Data\_Cleaning\_Feature\_Engineering.ipynb
@@ -101,181 +105,129 @@ Working with Bundesbank data reflects **enterprise-grade data challenges**, incl
 └── Readme.md
 ---
 
-📘 Notebook Summary (ATS Optimized)
-Notebook 01 — Data Understanding \& Validation
 
-Skills demonstrated:
 
-Data profiling
+#### **Notebook Summary** 
 
-Economic data interpretation
 
-Time-series structure validation
 
-Data quality checks
+#### **Notebook 01 — Data Understanding \& Validation**
 
-SQL-style validation logic
+**Skills demonstrated:**
 
-Notebook 02 — Data Cleaning \& Feature Engineering
+* Data profiling
+* Economic data interpretation
+* Time-series structure validation
+* Data quality checks
+* SQL-style validation logic
 
-Skills demonstrated:
+#### **Notebook 02 — Data Cleaning \& Feature Engineering**
 
-Data cleaning pipelines
+**Skills demonstrated:**
 
-Feature engineering
+* Data cleaning pipelines
+* Feature engineering
+* Time-series feature creation
+* Logging and error handling
+* Unit testing for data quality
 
-Time-series feature creation
+**Key features engineered:**
 
-Logging and error handling
+* Year-over-Year (YoY) growth
+* Month-over-Month (MoM) growth
+* Rolling averages
+* Exponential moving averages
 
-Unit testing for data quality
+#### **Notebook 03 — KPI Definition \& Exploratory Data Analysis**
 
-Key features engineered:
+**Skills demonstrated:**
 
-Year-over-Year (YoY) growth
+* Business KPI design
+* Retail performance metrics
+* Exploratory data analysis (EDA)
+* Trend and seasonality analysis
+* Correlation analysis
+* Business-focused visualizations
 
-Month-over-Month (MoM) growth
+**KPIs created:**
 
-Rolling averages
+* Average Retail Index
+* YoY Growth (%)
+* MoM Growth (%)
+* Smoothed trend indicators
 
-Exponential moving averages
+#### **Notebook 04 — Time Series Forecasting**
 
-Notebook 03 — KPI Definition \& Exploratory Data Analysis
+**Skills demonstrated:**
 
-Skills demonstrated:
+* Time-series forecasting
+* Train-test split for time-series data
+* Baseline model benchmarking
+* Interpretable forecasting models (Holt-Winters, ARIMA)
+* Model evaluation (RMSE, MAE)
+* Production-style Python code
 
-Business KPI design
+#### **Power BI Dashboard (Business Intelligence)**
 
-Retail performance metrics
+The project prepares data for **Power BI dashboards**, including:
 
-Exploratory data analysis (EDA)
+* Executive KPI cards
+* Retail performance trends
+* Growth indicators
+* Forecast visualization
+* Date dimension modeling
+* DAX-based KPI calculations
 
-Trend and seasonality analysis
+This reflects **enterprise BI workflows** commonly used in German organizations.
 
-Correlation analysis
+#### **Tech Stack \& Tools** 
 
-Business-focused visualizations
+* Programming Languages: Python, SQL
+* Python Libraries: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn
+* Data Analysis: Time series analysis, KPI development
+* Forecasting: ARIMA, Holt-Winters, baseline models
+* Visualization: Matplotlib, Seaborn, Power BI
+* Business Intelligence: Power BI, DAX
+* Practices: Logging, unit testing, reproducible pipelines
+* Cloud (Planned): Microsoft Azure
 
-KPIs created:
+#### **Project Documentation**
 
-Average Retail Index
+**This project is documented through a multi-part blog series explaining**:
 
-YoY Growth (%)
+* Business context
+* Analytical decisions
+* Technical implementation
+* Interpretation of results
 
-MoM Growth (%)
+#### **Blog:**
 
-Smoothed trend indicators
 
-Notebook 04 — Time Series Forecasting
-
-Skills demonstrated:
-
-Time-series forecasting
-
-Train-test split for time-series data
-
-Baseline model benchmarking
-
-Interpretable forecasting models (Holt-Winters, ARIMA)
-
-Model evaluation (RMSE, MAE)
-
-Production-style Python code
-
-📊 Power BI Dashboard (Business Intelligence)
-
-The project prepares data for Power BI dashboards, including:
-
-Executive KPI cards
-
-Retail performance trends
-
-Growth indicators
-
-Forecast visualization
-
-Date dimension modeling
-
-DAX-based KPI calculations
-
-This reflects enterprise BI workflows commonly used in German organizations.
-
-🛠️ Tech Stack \& Tools (ATS Gold Section)
-
-Programming Languages: Python, SQL
-
-Python Libraries: pandas, numpy, matplotlib, seaborn, statsmodels, scikit-learn
-
-Data Analysis: Time series analysis, KPI development
-
-Forecasting: ARIMA, Holt-Winters, baseline models
-
-Visualization: Matplotlib, Seaborn, Power BI
-
-Business Intelligence: Power BI, DAX
-
-Practices: Logging, unit testing, reproducible pipelines
-
-Cloud (Planned): Microsoft Azure
-
-📝 Project Documentation
-
-This project is documented through a multi-part blog series explaining:
-
-Business context
-
-Analytical decisions
-
-Technical implementation
-
-Interpretation of results
-
-📌 Blog:
 https://endtoenddatascience.blogspot.com
+---
 
-▶️ How to Run the Project
+**How to Run the Project**
 git clone https://github.com/josmyrose/retail-sales-forecasting-germany-
 pip install -r requirements.txt
+---
 
 
 
 Run notebooks sequentially:
 
-Data Understanding
+1. Data Understanding
+2. Data Cleaning \& Feature Engineering
+3. KPI \& EDA
+4. Forecasting
 
-Data Cleaning \& Feature Engineering
+#### &nbsp;**Planned Enhancements**
 
-KPI \& EDA
+* Extended forecasting benchmarks
+* Final Power BI executive dashboard
+* Azure-based data pipeline integration
+* Automated data refresh
 
-Forecasting
+####  **License**
 
-💼 What Recruiters Will See
-
-This project demonstrates the ability to:
-
-Work with official German economic data
-
-Combine SQL and Python
-
-Build business KPIs
-
-Perform time-series forecasting
-
-Create BI-ready datasets
-
-Think in terms of decision support, not just models
-
-🚀 Planned Enhancements
-
-Extended forecasting benchmarks
-
-Final Power BI executive dashboard
-
-Azure-based data pipeline integration
-
-Automated data refresh
-
-📜 License
-
-MIT License © 2026 — Josmy Rose
+MIT License © 2026 — Josmy Mathew
 
