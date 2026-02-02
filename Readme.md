@@ -1,103 +1,80 @@
-### **📊 Retail Sales Forecasting \& Business Analytics — Germany**
+### **Retail Sales Forecasting \& Business Analytics — Germany**
 
 #### End-to-End Data Science Project | Python, SQL, Power BI, Time Series Forecasting
 
 This repository showcases an end-to-end data analytics and forecasting project using official German economic data from the Deutsche Bundesbank.
 
+
+
 The project is designed to reflect real-world analytics workflows used in German companies, covering:
 
-Data ingestion \& validation
 
-Data cleaning \& feature engineering
 
-KPI definition \& exploratory analysis
+* Data ingestion \& validation
+* Data cleaning \& feature engineering
+* KPI definition \& exploratory analysis
+* Time-series forecasting
+* Business intelligence (Power BI) preparation
+* Production-oriented Python practices (logging, unit tests)
 
-Time-series forecasting
-
-Business intelligence (Power BI) preparation
-
-Production-oriented Python practices (logging, unit tests)
-
-🎯 Project Purpose (ATS-Focused)
+#### &nbsp;**Project Purpose (ATS-Focused)**
 
 This project demonstrates hands-on experience in:
 
-Data Analysis
+* Data Analysis
+* Time Series Analysis
+* Forecasting \& Predictive Analytics
+* Business KPI Development
+* Retail Analytics
+* Economic Data Analysis
+* SQL + Python Analytics Pipelines
+* Power BI Dashboarding
+* German Market \& Economic Indicators
 
-Time Series Analysis
+#### **Data Source: Deutsche Bundesbank**
 
-Forecasting \& Predictive Analytics
+**Data Provider:** Deutsche Bundesbank (Germany’s central bank)
+**Dataset:** Retail Trade Turnover Index (Monthly)
+**Dataset ID:** BBDE1.M.DE.W.GUA1.N2G470000.A.V.I15.A
 
-Business KPI Development
 
-Retail Analytics
-
-Economic Data Analysis
-
-SQL + Python Analytics Pipelines
-
-Power BI Dashboarding
-
-German Market \& Economic Indicators
-
-It is directly aligned with requirements for:
-
-Data Analyst
-
-Data Scientist
-
-Business Analyst
-
-Analytics Consultant
-roles in Germany.
-
-🏢 Data Source: Deutsche Bundesbank
-
-Data Provider: Deutsche Bundesbank (Germany’s central bank)
-Dataset: Retail Trade Turnover Index (Monthly)
-Dataset ID: BBDE1.M.DE.W.GUA1.N2G470000.A.V.I15.A
 
 The dataset is widely used by:
 
-Economists
 
-Retail analysts
 
-Financial institutions
+* Economists
+* Retail analysts
+* Financial institutions
+* Policymakers
+* Consulting firms
 
-Policymakers
+Working with Bundesbank data reflects **enterprise-grade data challenges**, including:
 
-Consulting firms
+* Metadata handling
+* Index-based indicators
+* Time-series validation
+* Economic interpretation
 
-Working with Bundesbank data reflects enterprise-grade data challenges, including:
 
-Metadata handling
 
-Index-based indicators
+#### **Dataset Characteristics** 
 
-Time-series validation
 
-Economic interpretation
 
-📁 Dataset Characteristics (Keyword-Rich)
+* Monthly time-series data
+* Retail trade turnover index (not raw revenue)
+* Multi-year historical coverage
+* Seasonality and trend components
+* Suitable for:
 
-Monthly time-series data
+&nbsp;	KPI reporting
 
-Retail trade turnover index (not raw revenue)
+&nbsp;	Trend analysis
 
-Multi-year historical coverage
+&nbsp;	Demand forecasting
 
-Seasonality and trend components
-
-Suitable for:
-
-KPI reporting
-
-Trend analysis
-
-Demand forecasting
-
-Business planning
+&nbsp;	Business planning
 
 🧠 Repository Structure
 ├── notebooks/
