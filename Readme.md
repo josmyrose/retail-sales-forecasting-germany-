@@ -1,16 +1,16 @@
-📊 Retail Sales Forecasting & Business Analytics — Germany
+### **📊 Retail Sales Forecasting \& Business Analytics — Germany**
 
-End-to-End Data Science Project | Python, SQL, Power BI, Time Series Forecasting
+#### End-to-End Data Science Project | Python, SQL, Power BI, Time Series Forecasting
 
 This repository showcases an end-to-end data analytics and forecasting project using official German economic data from the Deutsche Bundesbank.
 
 The project is designed to reflect real-world analytics workflows used in German companies, covering:
 
-Data ingestion & validation
+Data ingestion \& validation
 
-Data cleaning & feature engineering
+Data cleaning \& feature engineering
 
-KPI definition & exploratory analysis
+KPI definition \& exploratory analysis
 
 Time-series forecasting
 
@@ -26,7 +26,7 @@ Data Analysis
 
 Time Series Analysis
 
-Forecasting & Predictive Analytics
+Forecasting \& Predictive Analytics
 
 Business KPI Development
 
@@ -38,7 +38,7 @@ SQL + Python Analytics Pipelines
 
 Power BI Dashboarding
 
-German Market & Economic Indicators
+German Market \& Economic Indicators
 
 It is directly aligned with requirements for:
 
@@ -101,10 +101,10 @@ Business planning
 
 🧠 Repository Structure
 ├── notebooks/
-│   ├── Notebook_01_Data_Understanding.ipynb
-│   ├── Notebook_02_Data_Cleaning_Feature_Engineering.ipynb
-│   ├── Notebook_03_KPI_Exploratory_Analysis.ipynb
-│   ├── Notebook_04_Time_Series_Forecasting.ipynb
+│   ├── Notebook\_01\_Data\_Understanding.ipynb
+│   ├── Notebook\_02\_Data\_Cleaning\_Feature\_Engineering.ipynb
+│   ├── Notebook\_03\_KPI\_Exploratory\_Analysis.ipynb
+│   ├── Notebook\_04\_Time\_Series\_Forecasting.ipynb
 │
 ├── data/
 │   ├── raw/
@@ -112,17 +112,17 @@ Business planning
 │   └── outputs/
 │
 ├── powerbi/
-│   ├── Retail_Analytics_Dashboard.pbix
+│   ├── Retail\_Analytics\_Dashboard.pbix
 │   └── screenshots/
 │
 ├── sql/
-│   └── data_validation_queries.sql
+│   └── data\_validation\_queries.sql
 │
 ├── requirements.txt
 └── README.md
 
 📘 Notebook Summary (ATS Optimized)
-Notebook 01 — Data Understanding & Validation
+Notebook 01 — Data Understanding \& Validation
 
 Skills demonstrated:
 
@@ -136,7 +136,7 @@ Data quality checks
 
 SQL-style validation logic
 
-Notebook 02 — Data Cleaning & Feature Engineering
+Notebook 02 — Data Cleaning \& Feature Engineering
 
 Skills demonstrated:
 
@@ -160,7 +160,7 @@ Rolling averages
 
 Exponential moving averages
 
-Notebook 03 — KPI Definition & Exploratory Data Analysis
+Notebook 03 — KPI Definition \& Exploratory Data Analysis
 
 Skills demonstrated:
 
@@ -220,7 +220,7 @@ DAX-based KPI calculations
 
 This reflects enterprise BI workflows commonly used in German organizations.
 
-🛠️ Tech Stack & Tools (ATS Gold Section)
+🛠️ Tech Stack \& Tools (ATS Gold Section)
 
 Programming Languages: Python, SQL
 
@@ -258,13 +258,14 @@ git clone https://github.com/josmyrose/retail-sales-forecasting-germany-
 pip install -r requirements.txt
 
 
+
 Run notebooks sequentially:
 
 Data Understanding
 
-Data Cleaning & Feature Engineering
+Data Cleaning \& Feature Engineering
 
-KPI & EDA
+KPI \& EDA
 
 Forecasting
 
